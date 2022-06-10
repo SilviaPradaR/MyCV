@@ -1,0 +1,26 @@
+body{
+    background-color: #212529;
+    color: #FFFFFF
+}
+
+header{
+    font-family: 'poppins';
+}
+
+footer{
+    background-color: #1c1c1c;
+}
+#nombreResaltado{
+    color: #FFB742;
+}
+
+.caja1{
+    background-color: #292B2E;
+    border-color:#FFFFFF;
+    border-style: solid;
+}
+
+.recuadro{
+    border-color:#FFFFFF;
+    border-style: solid;
+}
